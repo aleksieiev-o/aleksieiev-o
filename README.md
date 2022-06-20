@@ -18,9 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mandred19&style=flat-square&color=blue" alt=""/>
   <br>
   <h1>
-    Hey, friend!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I’m Alexander!
+    Hey, friend! I’m Alexander!
   </h1>
 </div>
 
