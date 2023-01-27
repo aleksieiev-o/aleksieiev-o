@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://vk.com/alexeev1234" target="_blank">
+    <a href="https://vk.com/aleksieiev_o" target="_blank">
       <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
     </a>
     <a href="mailto:frontdev1991@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/alexeev1234" target="_blank">
+    <a href="https://www.linkedin.com/in/aleksieiev-o" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://t.me/alexeev1234" target="_blank">
+    <a href="https://t.me/aleksieiev-o" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
