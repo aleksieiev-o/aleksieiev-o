@@ -19,8 +19,6 @@
   </h1>
 </div>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="600" height="300" alt="css"/>
 </div>
@@ -31,11 +29,8 @@
 I’m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 - :telescope: I’m working as frontend developer while building web applications.
-
 - :seedling: I study new technologies, when the opportunity presents itself.
-
 - :zap: In my free time, I read books or spend time actively.
-
 - :mailbox:Mail me: [![Gmail Badge](https://img.shields.io/badge/-frontdev1991-red?style=flat&logo=gmail&logoColor=white)](mailto:frontdev1991@gmail.com)
 
 ---
@@ -76,10 +71,12 @@ I’m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
+<!--
 ### :fire: My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aleksieiev-o&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aleksieiev-o&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats) Don't works
+-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksieiev-o&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksieiev-o&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
