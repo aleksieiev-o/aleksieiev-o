@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=aleksieiev-o&style=flat-square&color=blue" alt=""/>
   <br>
   <h1>
-    Hey, friend! I’m Alexander!
+    Hey, friend! I’m Oleksandr!
   </h1>
 </div>
 
