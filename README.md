@@ -7,6 +7,9 @@
     <a href="https://www.linkedin.com/in/aleksieiev-o" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://gitlab.com/aleksieiev-o" target="_blank">
+      <img src="https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    </a>
     <a href="https://t.me/aleksieiev_o" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
